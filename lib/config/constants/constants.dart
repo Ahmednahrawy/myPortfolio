@@ -5,7 +5,7 @@ const kEmailAddress = 'ahmad_alnahrawy@hotmail.com';
 const kPhoneNumber = '+201091850076';
 
 const kBaseResourcesUrl =
-    'https://raw.githubusercontent.com/zamaniafshar/zamaniafshar.github.io/main/resources/';
+    '';
 const kProfileImageUrl = '${kBaseResourcesUrl}profile.jpg';
 const kMyResumeDownloadUrl = '${kBaseResourcesUrl}zamani_afshar_resume.pdf';
 const kMyGithubUrl = 'https://github.com/Ahmednahrawy';
